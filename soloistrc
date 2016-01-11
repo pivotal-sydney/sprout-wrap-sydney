@@ -5,6 +5,7 @@ recipes:
 - sprout-base::bash_it
 - sprout-base::homebrew
 - sprout-homebrew
+- sprout-vim
 
 # apps
 - sprout-osx-apps::iterm2
