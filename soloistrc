@@ -81,6 +81,7 @@ node_attributes:
         - wget
         - rbenv-binstubs
         - rbenv-gem-rehash
+        - golang
       casks:
         - ccmenu
         - firefox
