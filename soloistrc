@@ -33,6 +33,7 @@ recipes:
 - sprout-osx-apps::textmate_preferences
 - sprout-osx-apps::sublime_text
 - sprout-jetbrains-editors::rubymine
+- sprout-jetbrains-editors::intellij
 
 node_attributes:
   sprout:
