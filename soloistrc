@@ -80,7 +80,6 @@ node_attributes:
         - watch
         - wget
         - rbenv-binstubs
-        - rbenv-gem-rehash
         - golang
       casks:
         - ccmenu
