@@ -7,9 +7,7 @@ to run a subset of the recipes in sprout's cookbooks.
 
 If you've never used Chef before - we highly recommend you buy &amp; watch [this excellent 17 minute screencast](http://railscasts.com/episodes/339-chef-solo-basics) by Ryan Bates. 
 
-## Installation under Mavericks (OS X 10.9)
-
-### 0. Install XCode
+## Installation under El Capitan
 
 ### 1. Install Command Line Tools
   
