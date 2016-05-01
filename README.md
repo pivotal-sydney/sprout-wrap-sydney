@@ -20,8 +20,6 @@ If you've never used Chef before - we highly recommend you buy &amp; watch [this
 
 ### 3. Install soloist & and other required gems
 
-If you're running under rvm or rbenv, you shouldn't preface the following commands with `sudo`.
-
     sudo gem install bundler
     bundle install --path vendor/bundle
 
