@@ -83,7 +83,7 @@ node_attributes:
     casks:
       - ccmenu
       - flycut
-      # - google-chrome # Failing on Travis: https://travis-ci.org/pivotal-sydney/sprout-wrap-sydney/builds/122670486
+      - google-chrome
       - google-hangouts
       - java
       - spectacle
