@@ -25,7 +25,7 @@ If you receive a message about the update server being unavailable and are on Ma
 If you're running under rvm or rbenv, you shouldn't preface the following commands with `sudo`.
 
     sudo gem install bundler
-    bundle
+    bundle install --path vendor/bundle
 
 ### 4. Run soloist
 
