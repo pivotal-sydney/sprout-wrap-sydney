@@ -13,8 +13,6 @@ If you've never used Chef before - we highly recommend you buy &amp; watch [this
   
     xcode-select --install
 
-If you receive a message about the update server being unavailable and are on Mavericks, then you already have the command line tools.
-
 ### 2. Clone this project
 
     git clone https://github.com/pivotal/sprout-wrap-sydney.git
