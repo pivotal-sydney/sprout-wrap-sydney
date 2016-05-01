@@ -31,6 +31,9 @@ node_attributes:
   sprout:
     git:
       domain: pivotal.io
+      aliases:
+        ci: duet-commit
+        rv: duet-revert
       authors:
         - initials: ah
           name: Abhijit Hiremagalur
