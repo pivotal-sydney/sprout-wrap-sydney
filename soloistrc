@@ -3,8 +3,8 @@ recipes:
 - sprout-base::bash_it
 - homebrew
 - homebrew::install_taps
-- homebrew::install_formulas
 - homebrew::install_casks
+- homebrew::install_formulas
 
 - sprout-osx-settings
 - sprout-osx-settings::dock_preferences
@@ -21,13 +21,27 @@ recipes:
 
 - sprout-postgresql
 - sprout-jetbrains-editors::intellij
+- sprout-jetbrains-editors::rubymine
 
 node_attributes:
   bash_it:
     enabled_plugins:
+      aliases:
+        - bundler
+        - general
+      completion:
+        - defaults
+        - git
+        - ssh
       plugins:
-          - ssh
-          - node
+        - ssh
+      custom_plugins:
+        sprout-base:
+          - bash_it/custom/add_user_initials_to_git_prompt_info.bash
+          - bash_it/custom/always_update_history.bash
+          - bash_it/custom/direnv.bash
+          - bash_it/custom/disable_ctrl-s_output_control.bash
+          - bash_it/custom/enable_ctrl-o_history_execution.bash
   sprout:
     git:
       domain: pivotal.io
@@ -72,10 +86,12 @@ node_attributes:
     formulas:
       - cf-cli
       - chromedriver
+      - jruby
       - lastpass-cli
       - node
       - pstree
       - qt
+      - ruby
       - springboot
       - ssh-copy-id
       - the_platinum_searcher
@@ -89,6 +105,8 @@ node_attributes:
       - google-chrome
       - google-hangouts
       - java
+      - screenhero
+      - skype
       - spectacle
       - textmate
       - tunnelblick
