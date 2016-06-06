@@ -51,14 +51,19 @@ node_attributes:
       authors:
         - initials: ah
           name: Abhijit Hiremagalur
+          username: ahiremagalur
         - initials: al
           name: Andrew Leung
+          username: aleung
         - initials: dl
           name: Dariusz Lorenc
+          username: dlorenc
         - initials: dg
           name: Dylan Griffith
+          username: dgriffith
         - initials: jf
           name: Joel Freedman
+          username: jfreedman
         - initials: gb
           name: Gabriel Bieules
           email: gabriel.bieules@team.telstra.com
