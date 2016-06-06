@@ -97,7 +97,6 @@ node_attributes:
       - node
       - pstree
       - qt
-      - ruby
       - springboot
       - ssh-copy-id
       - the_platinum_searcher
