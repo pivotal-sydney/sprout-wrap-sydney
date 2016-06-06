@@ -86,6 +86,7 @@ node_attributes:
     formulas:
       - cf-cli
       - chromedriver
+      - direnv
       - jruby
       - lastpass-cli
       - node
