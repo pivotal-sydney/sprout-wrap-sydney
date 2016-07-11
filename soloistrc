@@ -24,6 +24,9 @@ recipes:
 - sprout-jetbrains-editors::intellij
 - sprout-jetbrains-editors::rubymine
 
+- sprout-rbenv
+- sprout-ruby
+
 node_attributes:
   bash_it:
     enabled_plugins:

@@ -2,6 +2,12 @@
 
 site 'https://supermarket.getchef.com/api/v1'
 
+cookbook 'sprout-rbenv',
+  :github => 'pivotal-sprout/sprout-rbenv'
+
+cookbook 'sprout-ruby',
+  :github => 'pivotal-sprout/sprout-ruby'
+
 cookbook 'sprout-git',
   :github => 'pivotal-sprout/sprout-git'
 
