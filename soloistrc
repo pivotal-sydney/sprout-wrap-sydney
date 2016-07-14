@@ -70,10 +70,13 @@ node_attributes:
           username: jfreedman
         - initials: gb
           name: Gabriel Bieules
-          email: gabriel.bieules@team.telstra.com
+          email: gbieules@pivotal.io
         - initials: sb
           name: Stuart Bargon
-          email: stuart.bargon@team.telstra.com
+          email: sbargon@pivotal.io
+        - initials: ks
+          name: Karolina Schmitz
+          email: kschmitz@pivotal.io
       projects:
         -
           name: sprout-wrap
