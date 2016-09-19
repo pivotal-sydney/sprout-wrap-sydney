@@ -74,6 +74,9 @@ node_attributes:
         - initials: sb
           name: Stuart Bargon
           email: stuart.bargon@team.telstra.com
+        - initials: fl
+          name: Fede Lopez
+          username: flopezlaborda
       projects:
         -
           name: sprout-wrap
