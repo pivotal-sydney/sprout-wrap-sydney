@@ -67,13 +67,10 @@ node_attributes:
           username: jfreedman
         - initials: gb
           name: Gabriel Bieules
-          username: gbieules
+          email: gabriel.bieules@team.telstra.com
         - initials: ks
           name: Karolina Schmitz
           username: kschmitz
-        - initials: sb
-          name: Stuart Bargon
-          email: stuart.bargon@team.telstra.com
         - initials: fl
           name: Fede Lopez
           username: flopezlaborda
