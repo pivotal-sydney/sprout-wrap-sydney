@@ -74,6 +74,9 @@ node_attributes:
         - initials: fl
           name: Fede Lopez
           username: flopezlaborda
+        - initials: sk 
+          name: Suganthi Krishnavathi
+          email: skrishnavathi@pivotal.io 
       projects:
         -
           name: sprout-wrap
