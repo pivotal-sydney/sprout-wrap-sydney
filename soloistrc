@@ -24,6 +24,8 @@ recipes:
 - sprout-jetbrains-editors::intellij
 - sprout-jetbrains-editors::rubymine
 
+- sydney
+
 node_attributes:
   bash_it:
     enabled_plugins:

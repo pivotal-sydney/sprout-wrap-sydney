@@ -1,0 +1,12 @@
+name             'sydney'
+maintainer       'Pivotal Labs Sydney'
+maintainer_email 'labs-sydney-devs@pivotal.io'
+license          'unlicense'
+description      'Sydneys recipes'
+long_description 'Sydneys recipes'
+version          '0.1.0'
+supports         'mac_os_x'
+
+depends          'sprout-base'
+depends          'homebrew'
+depends          'sprout-git'

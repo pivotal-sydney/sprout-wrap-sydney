@@ -93,6 +93,14 @@ GIT
       osx (>= 0.0.0)
       sprout-base (>= 0.0.0)
 
+PATH
+  remote: sydney
+  specs:
+    sydney (0.1.0)
+      homebrew (>= 0.0.0)
+      sprout-base (>= 0.0.0)
+      sprout-git (>= 0.0.0)
+
 DEPENDENCIES
   osx (>= 0)
   sprout-base (>= 0)
@@ -103,4 +111,5 @@ DEPENDENCIES
   sprout-postgresql (>= 0)
   sprout-ssh (>= 0)
   sprout-terminal (>= 0)
+  sydney (>= 0)
 

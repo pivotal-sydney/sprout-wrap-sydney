@@ -28,3 +28,5 @@ cookbook 'sprout-ssh',
 
 cookbook 'sprout-jetbrains-editors',
   :github => 'pivotal-sprout/sprout-jetbrains-editors'
+
+cookbook 'sydney', path: 'sydney'
