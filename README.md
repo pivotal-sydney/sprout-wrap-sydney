@@ -15,7 +15,7 @@ If you've never used Chef before - we highly recommend you buy &amp; watch [this
 
 ### 2. Clone this project
 
-    git clone https://github.com/pivotal/sprout-wrap-sydney.git
+    git clone https://github.com/pivotal-sydney/sprout-wrap-sydney.git
     cd sprout-wrap-sydney
 
 ### 3. Install soloist & and other required gems
